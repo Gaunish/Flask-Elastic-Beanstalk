@@ -10,6 +10,6 @@ lint:
 
 deploy:
 	echo "Deploying app"
-	python application.py
+	application.py
 
 all: install lint test 
