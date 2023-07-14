@@ -13,4 +13,4 @@ phases:
 
   build:
     commands:
-      - make deploy flask-continuous-delivery-env
+      - make deploy
